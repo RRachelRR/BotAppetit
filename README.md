@@ -17,37 +17,18 @@ The data is split into folders by participant id. Each participant folder contai
 ```
 BotAppetitDataset/
   -P1/
-    -P1_Ego_1.mp4
-    -P1_Ego_2.mp4
-    -...
-    -P1_Ego_Complete.mp4
-    -P1_Frontal_1.mp4
-    -P1_Frontal_2.mp4
-    -...
-    -P1_Frontal_Complete.mp4
-    -...
+    -Almond.mp4
+    -Broccoli.mp4
+    -P1.txt
+    -P1_Almond.txt
+    -P1_Broccoli.txt
   -P2/
-    -P2_Ego_1.mp4
-    -P2_Ego_2.mp4
-    -...
-    -P2_Ego_Complete.mp4
-    -P2_Frontal_1.mp4
-    -P2_Frontal_2.mp4
-    -...
-    -P2_Frontal_Complete.mp4
-    -...   
+    -Almond.mp4
+    -Broccoli.mp4
+    -P2.txt
+    -P2_Almond.txt
+    -P2_Broccoli.txt
   -...
-  -Annotations/
-    -P1_Frontal_2.csv
-    -...
-  -TestFrames/
-    -P1_Frontal_2/
-      -01.png
-      -01.txt
-      -...
-    -...
-  -functional_part_labels.yml
-  -train_test_split.yml
   -README.md
   -LICENSE.md
 
