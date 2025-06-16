@@ -1,4 +1,5 @@
 HEADERIMAGE
+
 # Bot Appetit Dataset
 
 The Bot Appetit Dataset is a a multimodal dataset (transcripts of think-alouds, VR video recordings, object 3D coordinates) collected from 22 participants tasked with preparing a kitchen for collaboration with one of several robots in a Virtual Reality (VR) environment
@@ -56,9 +57,13 @@ BotAppetitDataset/
 
 - 189 videos in MP4 format with a total of 417 minutes of material
 
+## Download link
+
+* [Bot Appetit Dataset Repository](https://nc.uni-bremen.de/index.php/s/ofwfGQQP4TMAdFR) - Link to the dataset videos hosted on university servers.
+
 ## Related publications
 
-[Link]() and Bibtex for HRI paper here
+[Link]() and Bibtex for ROMAN paper here
 
 ## Authors
 
